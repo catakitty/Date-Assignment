@@ -1,4 +1,4 @@
-# hello-world
+# How it works
 /*
 This program checks if the date entered by a user is a valid date and prints it in
 the following format.
